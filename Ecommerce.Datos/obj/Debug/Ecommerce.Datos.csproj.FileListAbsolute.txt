@@ -1,0 +1,14 @@
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\Ecommerce.Datos.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\Ecommerce.Datos.pdb
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\Ecommerce.Dominio.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\Ecommerce.Dominio.pdb
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\obj\Debug\Ecommerce.Datos.csprojAssemblyReference.cache
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\obj\Debug\Ecommerce.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\obj\Debug\Ecommerce.Datos.csproj.CopyComplete
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\obj\Debug\Ecommerce.Datos.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\obj\Debug\Ecommerce.Datos.pdb
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\Ecommerce.Datos.dll.config
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Datos\bin\Debug\EntityFramework.SqlServer.xml

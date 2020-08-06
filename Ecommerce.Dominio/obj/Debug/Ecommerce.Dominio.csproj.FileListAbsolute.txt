@@ -1,0 +1,6 @@
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Dominio\bin\Debug\Ecommerce.Dominio.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Dominio\bin\Debug\Ecommerce.Dominio.pdb
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Dominio\obj\Debug\Ecommerce.Dominio.csprojAssemblyReference.cache
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Dominio\obj\Debug\Ecommerce.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Dominio\obj\Debug\Ecommerce.Dominio.dll
+C:\Users\Ecopetrol\source\repos\Ecommerce\Ecommerce.Dominio\obj\Debug\Ecommerce.Dominio.pdb
